@@ -8,7 +8,7 @@ class Landing extends Component {
           <div className="container">
             <div className="row">
               <div className="col-md-12 text-center">
-                <h1 className="display-3 mb-4">MoviesTimez</h1>
+                <h1 className="display-3 mb-4">MoviesTimezz</h1>
                 <p className="lead">Movies Wiki...</p>
                 <a href="/movies" className="btn btn-lg btn-primary">
                   Movies
